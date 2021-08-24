@@ -2,10 +2,9 @@
 using System.Runtime.InteropServices;
 using UnityEngine.UI;
 
-
-public class linkzoom : MonoBehaviour
+public class linkig : MonoBehaviour
 {
-	public void Zoom_A1()
+    public void ig_A1()
 	{
 		#if !UNITY_EDITOR
 		openWindow("https://wa.me/62811200412");
